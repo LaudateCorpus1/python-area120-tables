@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/googleapis/python-area120-tables/compare/v0.5.1...v0.6.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#116](https://github.com/googleapis/python-area120-tables/issues/116)) ([48c0ead](https://github.com/googleapis/python-area120-tables/commit/48c0ead49612fc58ea39ed55745abd73a83f3732))
+
 ### [0.5.1](https://www.github.com/googleapis/python-area120-tables/compare/v0.5.0...v0.5.1) (2021-11-01)
 
 
